@@ -1,1 +1,1 @@
-My first readme 
+if not coding then what?
